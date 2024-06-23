@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking Homepage section in footer</description>
+   <name>Header_Click Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee98c828-0b41-45fe-9b6f-20ae06113612</testCaseGuid>
+</TestCaseEntity>

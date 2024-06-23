@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking Hot section in Footer</description>
+   <name>Header_Click Hot</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce3efd1a-9b1e-40ac-bd3f-49549cc0f440</testCaseGuid>
+</TestCaseEntity>

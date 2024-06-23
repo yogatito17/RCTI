@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking Games section in Footer</description>
+   <name>Header_Click Games</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd0b4a26-f0a9-49ff-8173-f306e0ae09d2</testCaseGuid>
+</TestCaseEntity>

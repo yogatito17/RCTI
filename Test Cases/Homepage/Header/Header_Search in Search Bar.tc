@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Searching specific contents in search bar</description>
+   <name>Header_Search in Search Bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0d57ce6-a9b0-4796-99f2-143f10cc8bc9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Searching specific contents in search bar</description>
+   <name>Header_Search Unavailable Contents in Search Bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0840d84e-ddeb-4b2d-8c43-a1a73605545d</testCaseGuid>
+</TestCaseEntity>

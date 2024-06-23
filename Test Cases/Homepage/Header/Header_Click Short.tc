@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking Live section in Short</description>
+   <name>Header_Click Short</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea9fa708-42df-4fe0-8f3a-d90f64ff1e2b</testCaseGuid>
+</TestCaseEntity>

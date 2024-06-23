@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking Live section in Footer</description>
+   <name>Header_Click Live</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ccdd736-29c8-42f5-8aca-5e96d83e650b</testCaseGuid>
+</TestCaseEntity>
